@@ -62,20 +62,20 @@ Texto em italíco
 ## Links
 
 
-[Visite o GitHub](https://github.com/catatauexe)
+[Visite o GitHub](https://github.com/ghosthszz)
 
 [Simple Badges](https://badges.pages.dev/)
 
 [Abra outro arquivo do projeto](./OUTRO.md)
 
 
-[Visite o GitHub](https://github.com/catatauexe)
+[Visite o GitHub](https://github.com/ghosthszz)
 
 [Simple Badges](https://badges.pages.dev/)
 
 [Abra outro arquivo do projeto](./OUTRO.md)
 
-## Codigo em lina e blocos de código
+## Codigo em linha e blocos de código
 
 Use uma crase `git status` mostra o estado atual do repositório.
 
